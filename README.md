@@ -1,2 +1,2 @@
-ElectricalEngineeringCraft
-==========================
+Electrical Engineering Craft
+============================
